@@ -62,12 +62,14 @@ What drives me:
 
 ---
 
-### 📚  Currently Learning
+### 📚 Currently Learning
 
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 - ⚙️ Exploring **Spring Boot** for enterprise-level backend development  
+- ☁️ Learning **AWS services** for deploying and scaling applications  
 - 🧱 Diving into **scalable system design** principles & architecture  
 - ✍️ Writing **technical articles** on full stack development and best practices
 
