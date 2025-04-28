@@ -71,7 +71,6 @@ What drives me:
 - ⚙️ Exploring **Spring Boot** for enterprise-level backend development  
 - ☁️ Learning **AWS services** for deploying and scaling applications  
 - 🧱 Diving into **scalable system design** principles & architecture  
-- ✍️ Writing **technical articles** on full stack development and best practices
 
 ---
 
