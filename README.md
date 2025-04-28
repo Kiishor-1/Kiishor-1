@@ -4,7 +4,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kishor-nishad-70362724a/" target="_blank">
