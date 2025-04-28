@@ -25,7 +25,7 @@ What drives me:
 - 🧱 Building systems that scale and last
 - 🎯 Delivering precise solutions with attention to detail
 - 🧪 Mastering debugging and development workflows
-- 📚 Always building, Always learning
+- 📚 Always Building, Always Learning
 
 ---
 
