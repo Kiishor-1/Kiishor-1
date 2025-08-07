@@ -2,8 +2,6 @@
 
 💻 Full Stack Web Developer (MERN) | Problem Solver | Clean Code Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kiishor-1&color=blue&style=flat-square)
-
 ---
 
 ### 📬 Connect with Me
