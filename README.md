@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Kishor — Full Stack Developer
 
-💻 Full Stack Web Developer (MERN) | Problem Solver | Clean Code Enthusiast  
+💻 Full Stack Web Developer (MERN) | Problem Solver | Clean Code Enthusiast
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kiishor-1&color=blue&style=flat-square)
 
 ---
 
-### Connect with Me
+### 📬 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kishor-nishad-70362724a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&color=gray" alt="LinkedIn" style="border-radius: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:nishaadk234@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&color=gray" alt="Email" style="border-radius: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
@@ -71,6 +73,26 @@ What drives me:
 - ⚙️ Exploring **Spring Boot** for enterprise-level backend development  
 - ☁️ Learning **AWS services** for deploying and scaling applications  
 - 🧱 Diving into **scalable system design** principles & architecture  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiishor-1&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiishor-1&theme=tokyonight" height="180" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+[![Kishor's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiishor-1&theme=tokyo-night)](https://github.com/Kiishor-1)
+
+---
+
+
+➡️ [Explore all repositories](https://github.com/Kiishor-1?tab=repositories)
 
 ---
 
